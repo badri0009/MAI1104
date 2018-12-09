@@ -1,0 +1,48 @@
+
+.addBtn {
+  padding: 10px;
+  width: 25%;
+  background: #d9d9d9;
+   
+}
+
+.mydemo2{
+    margin-left: 20px;
+    font-size: 23px;
+    color: black;
+    font-family: cursive;
+    background-color: unset;
+}
+
+#mydemo1{
+  margin-left: 40%;
+  margin-top: 56px; 
+
+}
+
+#myto_do{
+  margin-left: 10%;
+}
+
+#mydemo{
+  width: 433px;
+  height: 38px;
+  margin-right: 3px;
+  margin-left: -138px;
+  border: 2px solid;
+}
+.close{
+  position: relative;
+  float: right;
+  color: #000;
+  width: 30px;
+  height: 20px;
+  background-color: #808080;  
+  text-align: center;
+  margin-left: 40px;
+}
+
+
+.container{
+  margin: 0px 30px;
+}
